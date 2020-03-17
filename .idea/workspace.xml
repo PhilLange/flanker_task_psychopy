@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="62489403-800f-48e6-859c-27f5779e5a3e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment.py" beforeDir="false" afterPath="$PROJECT_DIR$/experiment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/key_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/key_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +97,9 @@
       <workItem from="1583426624202" duration="333000" />
       <workItem from="1583487235538" duration="3643000" />
       <workItem from="1584008221913" duration="2969000" />
-      <workItem from="1584097779711" duration="5743000" />
+      <workItem from="1584097779711" duration="6241000" />
+      <workItem from="1584183739599" duration="2853000" />
+      <workItem from="1584445228663" duration="719000" />
     </task>
     <servers />
   </component>
@@ -131,22 +136,23 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state width="254" height="200" key="ShowFilterAction_Filter_Popup/0.0.2048.1152@0.0.2048.1152" timestamp="1583424621761" />
-    <state width="960" height="662" key="XDebugger.FullValuePopup" timestamp="1584103814408">
+    <state width="960" height="662" key="XDebugger.FullValuePopup" timestamp="1584190597760">
       <screen x="-1920" y="0" width="1920" height="1200" />
     </state>
-    <state width="960" height="662" key="XDebugger.FullValuePopup/-1920.0.1920.1200/0.0.2048.1152@-1920.0.1920.1200" timestamp="1584103814408" />
+    <state width="960" height="662" key="XDebugger.FullValuePopup/-1920.0.1920.1200/0.0.2048.1152@-1920.0.1920.1200" timestamp="1584190597760" />
     <state width="1024" height="635" key="XDebugger.FullValuePopup/0.0.2048.1152@0.0.2048.1152" timestamp="1583414894934" />
     <state width="1024" height="576" key="XDebugger.FullValuePopup/0.23.2048.1046@0.23.2048.1046" timestamp="1581351253474" />
-    <state x="-1263" y="424" key="com.intellij.ide.util.TipDialog" timestamp="1584097803139">
+    <state x="-1263" y="424" key="com.intellij.ide.util.TipDialog" timestamp="1584445383419">
       <screen x="-1920" y="0" width="1920" height="1200" />
     </state>
-    <state x="-1263" y="424" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1200/0.0.2048.1152@-1920.0.1920.1200" timestamp="1584097803139" />
+    <state x="-1263" y="424" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1200/0.0.2048.1152@-1920.0.1920.1200" timestamp="1584445383419" />
     <state x="701" y="393" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1177/0.23.2048.1046@0.23.2048.1046" timestamp="1584008221903" />
     <state x="701" y="393" key="com.intellij.ide.util.TipDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1583425327751" />
     <state x="701" y="393" key="com.intellij.ide.util.TipDialog/0.23.2048.1046@0.23.2048.1046" timestamp="1583487236014" />
-    <state x="689" y="238" width="670" height="676" key="search.everywhere.popup" timestamp="1583424621783">
-      <screen x="0" y="0" width="2048" height="1152" />
+    <state x="-1274" y="248" width="670" height="58" key="search.everywhere.popup" timestamp="1584108661133">
+      <screen x="-1920" y="0" width="1920" height="1200" />
     </state>
+    <state x="-1274" y="248" width="670" height="58" key="search.everywhere.popup/-1920.0.1920.1200/0.0.2048.1152@-1920.0.1920.1200" timestamp="1584108661133" />
     <state x="689" y="238" width="670" height="676" key="search.everywhere.popup/0.0.2048.1152@0.0.2048.1152" timestamp="1583424621783" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">

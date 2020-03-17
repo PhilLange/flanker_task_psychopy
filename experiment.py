@@ -19,6 +19,8 @@ lc = visual.ImageStim(disp, image='target_L_C.bmp', name='leftCongruent')       
 ri = visual.ImageStim(disp, image='target_R_I.bmp', name='rightIncongruent')                   # Right Incongruent
 rc = visual.ImageStim(disp, image='target_R_C.bmp', name='rightCongruent')                     # Right Congruent
 
+stims = [lf, rf, li, lc, ri, rc]
+
 # Draw the fixmark stimulus and flip to screen
 fixmark.draw()
 disp.flip()
